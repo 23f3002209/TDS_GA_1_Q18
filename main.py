@@ -63,9 +63,10 @@ def rerank_documents(query, candidates):
     
     for doc in candidates:
         # We create a prompt for the AI
+        # FIX: Changed doc['text'] to doc['content']
         prompt = f"""
         Query: "{query}"
-        Document: "{doc['text']}"
+        Document: "{doc['content']}" 
 
         Rate the relevance of this document to the query on a scale of 0.0 to 10.0.
         Respond with ONLY the number.
@@ -74,9 +75,9 @@ def rerank_documents(query, candidates):
         try:
             # Ask the LLM
             response = client.chat.completions.create(
-                model="gpt-4o-mini", # Use a fast/cheap model
+                model="gpt-4o-mini", 
                 messages=[{"role": "user", "content": prompt}],
-                temperature=0 # Keep it strict
+                temperature=0 
             )
             
             # Extract the number
@@ -89,7 +90,7 @@ def rerank_documents(query, candidates):
             scored_results.append({
                 "id": doc['id'],
                 "score": normalized_score,
-                "content": doc['text'],
+                "content": doc['content'], # FIX: Changed to doc['content']
                 "metadata": {"source": "generated_db"}
             })
             
@@ -99,7 +100,7 @@ def rerank_documents(query, candidates):
             scored_results.append({
                 "id": doc['id'],
                 "score": 0.0, 
-                "content": doc['text']
+                "content": doc['content'] # FIX: Changed to doc['content']
             })
 
     # Sort by the new LLM score (Highest first)
