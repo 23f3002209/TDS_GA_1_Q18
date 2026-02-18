@@ -1,0 +1,415 @@
+[
+  {
+    "id": 1,
+    "text": "This paper on Astrophysics challenges the conventional view of specific variables, providing a robust framework for future studies. We utilized a dataset of 474 samples.",
+    "metadata": {
+      "topic": "Astrophysics"
+    }
+  },
+  {
+    "id": 2,
+    "text": "This paper on Nanotechnology demonstrates the efficiency of specific variables, providing a robust framework for future studies. We utilized a dataset of 1105 samples.",
+    "metadata": {
+      "topic": "Nanotechnology"
+    }
+  },
+  {
+    "id": 3,
+    "text": "This paper on Marine Biology demonstrates the efficiency of specific variables, providing a robust framework for future studies. We utilized a dataset of 2416 samples.",
+    "metadata": {
+      "topic": "Marine Biology"
+    }
+  },
+  {
+    "id": 4,
+    "text": "This paper on CRISPR Gene Editing analyzes the impact of specific variables, providing a robust framework for future studies. We utilized a dataset of 3449 samples.",
+    "metadata": {
+      "topic": "CRISPR Gene Editing"
+    }
+  },
+  {
+    "id": 5,
+    "text": "This paper on Nanotechnology demonstrates the efficiency of specific variables, improving efficiency by 50%. We utilized a dataset of 138 samples.",
+    "metadata": {
+      "topic": "Nanotechnology"
+    }
+  },
+  {
+    "id": 6,
+    "text": "This paper on Machine Learning proposes a new method for specific variables, providing a robust framework for future studies. We utilized a dataset of 4688 samples.",
+    "metadata": {
+      "topic": "Machine Learning"
+    }
+  },
+  {
+    "id": 7,
+    "text": "This paper on CRISPR Gene Editing reviews the history of specific variables, highlighting the need for further research. We utilized a dataset of 3554 samples.",
+    "metadata": {
+      "topic": "CRISPR Gene Editing"
+    }
+  },
+  {
+    "id": 8,
+    "text": "This paper on Neurology investigates the correlation between specific variables, providing a robust framework for future studies. We utilized a dataset of 4651 samples.",
+    "metadata": {
+      "topic": "Neurology"
+    }
+  },
+  {
+    "id": 9,
+    "text": "This paper on Climate Change analyzes the impact of specific variables, leading to significant cost reductions. We utilized a dataset of 1738 samples.",
+    "metadata": {
+      "topic": "Climate Change"
+    }
+  },
+  {
+    "id": 10,
+    "text": "This paper on Organic Chemistry proposes a new method for specific variables, suggesting a paradigm shift in the field. We utilized a dataset of 4916 samples.",
+    "metadata": {
+      "topic": "Organic Chemistry"
+    }
+  },
+  {
+    "id": 11,
+    "text": "This paper on Organic Chemistry analyzes the impact of specific variables, highlighting the need for further research. We utilized a dataset of 1414 samples.",
+    "metadata": {
+      "topic": "Organic Chemistry"
+    }
+  },
+  {
+    "id": 12,
+    "text": "This paper on Machine Learning proposes a new method for specific variables, providing a robust framework for future studies. We utilized a dataset of 904 samples.",
+    "metadata": {
+      "topic": "Machine Learning"
+    }
+  },
+  {
+    "id": 13,
+    "text": "This paper on CRISPR Gene Editing challenges the conventional view of specific variables, leading to significant cost reductions. We utilized a dataset of 2551 samples.",
+    "metadata": {
+      "topic": "CRISPR Gene Editing"
+    }
+  },
+  {
+    "id": 14,
+    "text": "This paper on Astrophysics proposes a new method for specific variables, leading to significant cost reductions. We utilized a dataset of 3332 samples.",
+    "metadata": {
+      "topic": "Astrophysics"
+    }
+  },
+  {
+    "id": 15,
+    "text": "This paper on Astrophysics investigates the correlation between specific variables, improving efficiency by 50%. We utilized a dataset of 1108 samples.",
+    "metadata": {
+      "topic": "Astrophysics"
+    }
+  },
+  {
+    "id": 16,
+    "text": "This paper on Quantum Physics analyzes the impact of specific variables, highlighting the need for further research. We utilized a dataset of 1736 samples.",
+    "metadata": {
+      "topic": "Quantum Physics"
+    }
+  },
+  {
+    "id": 17,
+    "text": "This paper on Nanotechnology investigates the correlation between specific variables, improving efficiency by 50%. We utilized a dataset of 1079 samples.",
+    "metadata": {
+      "topic": "Nanotechnology"
+    }
+  },
+  {
+    "id": 18,
+    "text": "This paper on Marine Biology reviews the history of specific variables, improving efficiency by 50%. We utilized a dataset of 1052 samples.",
+    "metadata": {
+      "topic": "Marine Biology"
+    }
+  },
+  {
+    "id": 19,
+    "text": "This paper on Organic Chemistry demonstrates the efficiency of specific variables, improving efficiency by 50%. We utilized a dataset of 1924 samples.",
+    "metadata": {
+      "topic": "Organic Chemistry"
+    }
+  },
+  {
+    "id": 20,
+    "text": "This paper on Climate Change reviews the history of specific variables, providing a robust framework for future studies. We utilized a dataset of 3683 samples.",
+    "metadata": {
+      "topic": "Climate Change"
+    }
+  },
+  {
+    "id": 21,
+    "text": "This paper on Neurology challenges the conventional view of specific variables, improving efficiency by 50%. We utilized a dataset of 1874 samples.",
+    "metadata": {
+      "topic": "Neurology"
+    }
+  },
+  {
+    "id": 22,
+    "text": "This paper on Nanotechnology analyzes the impact of specific variables, improving efficiency by 50%. We utilized a dataset of 283 samples.",
+    "metadata": {
+      "topic": "Nanotechnology"
+    }
+  },
+  {
+    "id": 23,
+    "text": "This paper on Astrophysics proposes a new method for specific variables, suggesting a paradigm shift in the field. We utilized a dataset of 3483 samples.",
+    "metadata": {
+      "topic": "Astrophysics"
+    }
+  },
+  {
+    "id": 24,
+    "text": "This paper on Organic Chemistry challenges the conventional view of specific variables, suggesting a paradigm shift in the field. We utilized a dataset of 1508 samples.",
+    "metadata": {
+      "topic": "Organic Chemistry"
+    }
+  },
+  {
+    "id": 25,
+    "text": "This paper on Marine Biology proposes a new method for specific variables, suggesting a paradigm shift in the field. We utilized a dataset of 4094 samples.",
+    "metadata": {
+      "topic": "Marine Biology"
+    }
+  },
+  {
+    "id": 26,
+    "text": "This paper on CRISPR Gene Editing reviews the history of specific variables, highlighting the need for further research. We utilized a dataset of 4230 samples.",
+    "metadata": {
+      "topic": "CRISPR Gene Editing"
+    }
+  },
+  {
+    "id": 27,
+    "text": "This paper on Climate Change demonstrates the efficiency of specific variables, improving efficiency by 50%. We utilized a dataset of 1731 samples.",
+    "metadata": {
+      "topic": "Climate Change"
+    }
+  },
+  {
+    "id": 28,
+    "text": "This paper on Marine Biology demonstrates the efficiency of specific variables, suggesting a paradigm shift in the field. We utilized a dataset of 3958 samples.",
+    "metadata": {
+      "topic": "Marine Biology"
+    }
+  },
+  {
+    "id": 29,
+    "text": "This paper on Machine Learning analyzes the impact of specific variables, highlighting the need for further research. We utilized a dataset of 907 samples.",
+    "metadata": {
+      "topic": "Machine Learning"
+    }
+  },
+  {
+    "id": 30,
+    "text": "This paper on Marine Biology proposes a new method for specific variables, leading to significant cost reductions. We utilized a dataset of 2432 samples.",
+    "metadata": {
+      "topic": "Marine Biology"
+    }
+  },
+  {
+    "id": 31,
+    "text": "This paper on Astrophysics proposes a new method for specific variables, leading to significant cost reductions. We utilized a dataset of 1396 samples.",
+    "metadata": {
+      "topic": "Astrophysics"
+    }
+  },
+  {
+    "id": 32,
+    "text": "This paper on Astrophysics demonstrates the efficiency of specific variables, providing a robust framework for future studies. We utilized a dataset of 4249 samples.",
+    "metadata": {
+      "topic": "Astrophysics"
+    }
+  },
+  {
+    "id": 33,
+    "text": "This paper on Climate Change analyzes the impact of specific variables, suggesting a paradigm shift in the field. We utilized a dataset of 468 samples.",
+    "metadata": {
+      "topic": "Climate Change"
+    }
+  },
+  {
+    "id": 34,
+    "text": "This paper on Machine Learning proposes a new method for specific variables, suggesting a paradigm shift in the field. We utilized a dataset of 4966 samples.",
+    "metadata": {
+      "topic": "Machine Learning"
+    }
+  },
+  {
+    "id": 35,
+    "text": "This paper on Organic Chemistry challenges the conventional view of specific variables, highlighting the need for further research. We utilized a dataset of 3450 samples.",
+    "metadata": {
+      "topic": "Organic Chemistry"
+    }
+  },
+  {
+    "id": 36,
+    "text": "This paper on Machine Learning demonstrates the efficiency of specific variables, leading to significant cost reductions. We utilized a dataset of 482 samples.",
+    "metadata": {
+      "topic": "Machine Learning"
+    }
+  },
+  {
+    "id": 37,
+    "text": "This paper on CRISPR Gene Editing analyzes the impact of specific variables, leading to significant cost reductions. We utilized a dataset of 2889 samples.",
+    "metadata": {
+      "topic": "CRISPR Gene Editing"
+    }
+  },
+  {
+    "id": 38,
+    "text": "This paper on CRISPR Gene Editing demonstrates the efficiency of specific variables, suggesting a paradigm shift in the field. We utilized a dataset of 2755 samples.",
+    "metadata": {
+      "topic": "CRISPR Gene Editing"
+    }
+  },
+  {
+    "id": 39,
+    "text": "This paper on Neurology reviews the history of specific variables, providing a robust framework for future studies. We utilized a dataset of 193 samples.",
+    "metadata": {
+      "topic": "Neurology"
+    }
+  },
+  {
+    "id": 40,
+    "text": "This paper on Astrophysics challenges the conventional view of specific variables, highlighting the need for further research. We utilized a dataset of 789 samples.",
+    "metadata": {
+      "topic": "Astrophysics"
+    }
+  },
+  {
+    "id": 41,
+    "text": "This paper on Marine Biology demonstrates the efficiency of specific variables, improving efficiency by 50%. We utilized a dataset of 1413 samples.",
+    "metadata": {
+      "topic": "Marine Biology"
+    }
+  },
+  {
+    "id": 42,
+    "text": "This paper on Climate Change investigates the correlation between specific variables, improving efficiency by 50%. We utilized a dataset of 4873 samples.",
+    "metadata": {
+      "topic": "Climate Change"
+    }
+  },
+  {
+    "id": 43,
+    "text": "This paper on Astrophysics demonstrates the efficiency of specific variables, improving efficiency by 50%. We utilized a dataset of 2701 samples.",
+    "metadata": {
+      "topic": "Astrophysics"
+    }
+  },
+  {
+    "id": 44,
+    "text": "This paper on Nanotechnology proposes a new method for specific variables, leading to significant cost reductions. We utilized a dataset of 3364 samples.",
+    "metadata": {
+      "topic": "Nanotechnology"
+    }
+  },
+  {
+    "id": 45,
+    "text": "This paper on CRISPR Gene Editing challenges the conventional view of specific variables, improving efficiency by 50%. We utilized a dataset of 1472 samples.",
+    "metadata": {
+      "topic": "CRISPR Gene Editing"
+    }
+  },
+  {
+    "id": 46,
+    "text": "This paper on Machine Learning demonstrates the efficiency of specific variables, providing a robust framework for future studies. We utilized a dataset of 2153 samples.",
+    "metadata": {
+      "topic": "Machine Learning"
+    }
+  },
+  {
+    "id": 47,
+    "text": "This paper on Neurology demonstrates the efficiency of specific variables, providing a robust framework for future studies. We utilized a dataset of 4758 samples.",
+    "metadata": {
+      "topic": "Neurology"
+    }
+  },
+  {
+    "id": 48,
+    "text": "This paper on Quantum Physics challenges the conventional view of specific variables, suggesting a paradigm shift in the field. We utilized a dataset of 1654 samples.",
+    "metadata": {
+      "topic": "Quantum Physics"
+    }
+  },
+  {
+    "id": 49,
+    "text": "This paper on Neurology proposes a new method for specific variables, improving efficiency by 50%. We utilized a dataset of 1741 samples.",
+    "metadata": {
+      "topic": "Neurology"
+    }
+  },
+  {
+    "id": 50,
+    "text": "This paper on Astrophysics challenges the conventional view of specific variables, providing a robust framework for future studies. We utilized a dataset of 3788 samples.",
+    "metadata": {
+      "topic": "Astrophysics"
+    }
+  },
+  {
+    "id": 51,
+    "text": "This paper on Nanotechnology demonstrates the efficiency of specific variables, highlighting the need for further research. We utilized a dataset of 3569 samples.",
+    "metadata": {
+      "topic": "Nanotechnology"
+    }
+  },
+  {
+    "id": 52,
+    "text": "This paper on Quantum Physics proposes a new method for specific variables, highlighting the need for further research. We utilized a dataset of 2335 samples.",
+    "metadata": {
+      "topic": "Quantum Physics"
+    }
+  },
+  {
+    "id": 53,
+    "text": "This paper on Organic Chemistry proposes a new method for specific variables, leading to significant cost reductions. We utilized a dataset of 4258 samples.",
+    "metadata": {
+      "topic": "Organic Chemistry"
+    }
+  },
+  {
+    "id": 54,
+    "text": "This paper on Organic Chemistry reviews the history of specific variables, improving efficiency by 50%. We utilized a dataset of 3214 samples.",
+    "metadata": {
+      "topic": "Organic Chemistry"
+    }
+  },
+  {
+    "id": 55,
+    "text": "This paper on Climate Change demonstrates the efficiency of specific variables, providing a robust framework for future studies. We utilized a dataset of 3453 samples.",
+    "metadata": {
+      "topic": "Climate Change"
+    }
+  },
+  {
+    "id": 56,
+    "text": "This paper on Organic Chemistry reviews the history of specific variables, leading to significant cost reductions. We utilized a dataset of 2570 samples.",
+    "metadata": {
+      "topic": "Organic Chemistry"
+    }
+  },
+  {
+    "id": 57,
+    "text": "This paper on Marine Biology challenges the conventional view of specific variables, highlighting the need for further research. We utilized a dataset of 3328 samples.",
+    "metadata": {
+      "topic": "Marine Biology"
+    }
+  },
+  {
+    "id": 58,
+    "text": "This paper on Machine Learning demonstrates the efficiency of specific variables, highlighting the need for further research. We utilized a dataset of 3217 samples.",
+    "metadata": {
+      "topic": "Machine Learning"
+    }
+  },
+  {
+    "id": 59,
+    "text": "This paper on Organic Chemistry investigates the correlation between specific variables, leading to significant cost reductions. We utilized a dataset of 2520 samples.",
+    "metadata": {
+      "topic": "Organic Chemistry"
+    }
+  }
+]
