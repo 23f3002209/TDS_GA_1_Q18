@@ -4,9 +4,11 @@ import numpy as np
 import time
 from flask import Flask, request, jsonify
 from openai import OpenAI
+from flask_cors import CORS  # <--- 1. Import this
 
 # Initialize Flask App
 app = Flask(__name__)
+CORS(app)  # <--- 2. Add this right after creating the app
 
 api_key = os.environ.get("OPENAI_API_KEY") 
 client = OpenAI(
